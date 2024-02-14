@@ -2,3 +2,9 @@ H1{
     font-size: 23px;
     color: blueviolet;
 }
+
+p{
+    height: 20px;
+    font-weight: 300
+    ;
+}
